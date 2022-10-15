@@ -40,7 +40,11 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/readme_assets" />
+      <recent name="$PROJECT_DIR$/src/section5" />
+      <recent name="$PROJECT_DIR$/src/section3" />
+      <recent name="$PROJECT_DIR$/dist/section2" />
+      <recent name="$PROJECT_DIR$/src" />
+      <recent name="$PROJECT_DIR$" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="アプリケーションレベル" UseSingleDictionary="true" transferred="true" />
@@ -53,7 +57,7 @@
       <updated>1665815615283</updated>
       <workItem from="1665815617014" duration="610000" />
       <workItem from="1665816717612" duration="4154000" />
-      <workItem from="1665824902888" duration="6329000" />
+      <workItem from="1665824902888" duration="14874000" />
     </task>
     <servers />
   </component>
@@ -61,7 +65,11 @@
     <option name="version" value="3" />
     <option name="exactExcludedFiles">
       <list>
-        <option value="$PROJECT_DIR$/app.js" />
+        <option value="$PROJECT_DIR$/secction2/objc-arrays-enum.js" />
+        <option value="$PROJECT_DIR$/secction2/function.js" />
+        <option value="$PROJECT_DIR$/secction2/union-alias.js" />
+        <option value="$PROJECT_DIR$/secction2/error.js" />
+        <option value="$PROJECT_DIR$/secction2/basic.js" />
       </list>
     </option>
   </component>
