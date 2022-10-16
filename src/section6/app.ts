@@ -1,3 +1,4 @@
+/*
 const fetchedUserData = {
     id: 'u1',
     name: 'user1',
@@ -15,3 +16,5 @@ console.log(fetchedUserData?.job?.title); // TS記法
 const userInput = '';
 const storeData = userInput ?? 'DEFAULT';
 console.log(storeData);
+
+ */

@@ -1,3 +1,4 @@
+/*
 enum Role {
  ADMIN,
  READ_ONLY_USER,
@@ -23,3 +24,4 @@ let favorite_activities: string[];
 favorite_activities = ['Sports']
 
 console.log(person.name);
+*/

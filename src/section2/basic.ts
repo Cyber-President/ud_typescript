@@ -1,3 +1,4 @@
+/*
 console.log('ここにコードを追加します')
 
 function add(n1: number, n2: number, shoeResult: boolean,  phrase: string){
@@ -8,3 +9,4 @@ function add(n1: number, n2: number, shoeResult: boolean,  phrase: string){
         return result;
     }
 }
+*/

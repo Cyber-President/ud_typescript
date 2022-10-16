@@ -1,3 +1,4 @@
+/*
 interface Named {
     readonly name: string;
     outputNamed?: string; // ? 任意のプロパティ
@@ -23,3 +24,5 @@ class Person implements Greetable {
 let user1: Greetable;
 user1 = new Person('Max');
 user1.greet('Hello I am');
+
+ */

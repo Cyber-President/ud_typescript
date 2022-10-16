@@ -1,3 +1,4 @@
+/*
 type Combinable = number | string; //エイリアス型　// | union型
 type ConversionDescription = 'as-number' | 'as-text';
 
@@ -26,3 +27,5 @@ function combine(input1: Combinable, input2: Combinable, resultConversion: Conve
 //
 // const combineName = combine('Max', 'Anna');
 // console.log(combineAges);
+
+ */

@@ -1,3 +1,4 @@
+/*
 abstract class Department {
     protected employees: string[] = [];
 
@@ -107,3 +108,5 @@ accounting.addEmployee('Max');
 accounting.addEmployee('Manu');
 
 accounting.printEmployeeInformation();
+
+ */
